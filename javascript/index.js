@@ -29,6 +29,7 @@
 
 // Iteration 1 - using callbacks
 // ...
+console.log("HOLA!, Jorge")
 
 // Iteration 2 - using promises
 // ...
